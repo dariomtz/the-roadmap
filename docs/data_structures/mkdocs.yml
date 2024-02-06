@@ -1,0 +1,5 @@
+site_name: "Data Structures"
+nav:
+  - Home: index.md
+  - Arrays: arrays.md
+  - Hash Tables: hash.md

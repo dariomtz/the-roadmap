@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: The Roadmap
+site_url: https://example.com/
+theme:
+  name: null
+  custom_dir: 'cinder'
+nav:
+  - Home: index.md
+  - Data Strucutres: data_structures
+markdown_extensions:
+  - admonition
