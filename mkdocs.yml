@@ -1,8 +1,8 @@
 site_name: The Roadmap
+repo_url: https://github.com/dariomtz/the-roadmap/
 site_url: https://example.com/
 theme:
-  name: null
-  custom_dir: 'cinder'
+  name: material 
 nav:
   - Home: index.md
   - Data Strucutres: data_structures
