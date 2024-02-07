@@ -30,6 +30,7 @@ theme:
 nav:
   - Home: index.md
   - Overview: 
+    - Getting Started: overview/get_started.md
     - Resume: overview/resume.md
     - Interviews: overview/interviews.md
   - Data Strucutres:
