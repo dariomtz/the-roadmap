@@ -1,10 +1,39 @@
 site_name: The Roadmap
+site_author: Dario Martinez
+site_description: >-
+  The roadmap, from zero to hero, to become a software engineer.
+repo_name: dariomtz/the-roadmap
 repo_url: https://github.com/dariomtz/the-roadmap/
 site_url: https://example.com/
 theme:
   name: material 
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+  palette:
+    - scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 nav:
   - Home: index.md
-  - Data Strucutres: data_structures
-markdown_extensions:
-  - admonition
+  - Overview: 
+    - Resume: overview/resume.md
+    - Interviews: overview/interviews.md
+  - Data Strucutres:
+    - Overview: data_structures/index.md
+  - Algorithms:
+    - Overview: algorithms/index.md
+
