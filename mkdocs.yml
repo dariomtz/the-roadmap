@@ -36,4 +36,7 @@ nav:
     - Overview: data_structures/index.md
   - Algorithms:
     - Overview: algorithms/index.md
-
+markdown_extensions: 
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
