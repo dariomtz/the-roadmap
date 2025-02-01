@@ -74,7 +74,7 @@ It is not necessary that those are industry or work related, specially if you
 are starting out in your programming journey. Academic and extracurricular
 projects can be a great way of showing what you can do, your interests, and your initiative.
 
-Details on this are covered in the [resume building](../resume) section.
+Details on this are covered in the [resume building](resume.md) section.
 
 ### How to pass the interview?
 
@@ -85,4 +85,4 @@ data structures and algorithms. As for the format, practicing with friends via
 mock interviews is a great way to get used to them and learn how to get better 
 at them.
 
-Details on this are covered in the [Interview Prep](../resume) section.
+Details on this are covered in the [Interview Prep](interviews.md) section.
