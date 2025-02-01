@@ -32,11 +32,24 @@ nav:
   - Overview: 
     - Getting Started: overview/get_started.md
     - Resume: overview/resume.md
+    - Resume Improvements: overview/improve-resume.md
+    - Resume Example: overview/resume-example.md
     - Interviews: overview/interviews.md
+    - Technical Interviews: overview/tech-interviews.md
+    - Interview Preparation: overview/interview-prep.md
+    - Start Applying : overview/start-applying.md
   - Data Strucutres:
-    - Overview: data_structures/index.md
+    - Overview: data-structures/overview.md
+    - Arrays: data-structures/arrays.md
+    - Hash Tables: data-structures/hash-tables.md
+    - Linked Lists: data-structures/linked-lists.md
+    - Stacks: data-structures/stacks.md
+    - Queues: data-structures/queues.md
+    - Trees: data-structures/trees.md
+    - Heaps: data-structures/heaps.md
+    - Trees Advanced: data-structures/trees-advanced.md
   - Algorithms:
-    - Overview: algorithms/index.md
+    - Overview: algorithms/overview.md
 markdown_extensions: 
   - admonition
   - pymdownx.details
